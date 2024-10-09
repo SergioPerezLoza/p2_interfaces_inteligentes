@@ -12,7 +12,7 @@
 ### Ejercicio 4
 ### Ejercicio 5
 
-![Captura Ejer 5]()
+![Captura Ejer 5](https://github.com/SergioPerezLoza/p2_interfaces_inteligentes/blob/main/ejer5.PNG)
 ### Ejercicio 6
 ### Ejercicio 7
 ### Ejercicio 8
